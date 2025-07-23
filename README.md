@@ -17,3 +17,6 @@
 1. Open any Python IDE (like Replit or VS Code).
 2. Copy the code from `birthday_quiz.py`.
 3. Run it and answer the questions!
+
+'''bash
+python birthday_quiz.py
