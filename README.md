@@ -24,5 +24,5 @@ python birthday_quiz.py
 
 ## Screenshot
 
-![Birthday Quiz Screenshot](birthday-quiz-screenshot.PNG)
+![Birthday Quiz Screenshot](birthday-quiz screenshot.PNG)
 
